@@ -1,0 +1,2 @@
+%{"gen_mqtt": {:hex, :gen_mqtt, "0.4.0", "5e6a3b11354ccf6f6638d381ca37cf6bb5a21c18f849dad5ac3761b9260731c6", [:mix], [{:vmq_commons, "1.0.0", [hex: :vmq_commons, optional: false]}]},
+  "vmq_commons": {:hex, :vmq_commons, "1.0.0", "5f5005c12db33f92f40e818a3617fb148972d59adcf99298c9d3808ef3582e34", [:rebar3], []}}
